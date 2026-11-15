@@ -15,7 +15,7 @@ Website: **[www.zagtrader.com](https://www.zagtrader.com/)** · Company overview
 
 ## Free tools
 
-Free browser tools from the teams that build ZagTrader's FIX connectivity and Swift messaging. No sign-up. Messages and logs are parsed in your browser and are not uploaded.
+Free, permanently: ZagTrader's contribution to the trading and banking communities, from the teams that build its FIX connectivity and Swift messaging. No sign-up. Messages and logs are parsed in your browser and are not uploaded.
 
 | Tool | What it does | Repository |
 |---|---|---|
