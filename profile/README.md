@@ -15,7 +15,7 @@ Website: **[www.zagtrader.com](https://www.zagtrader.com/)** · Company overview
 
 ## Free tools
 
-Free, permanently: ZagTrader's contribution to the trading and banking communities, from the teams that build its FIX connectivity and Swift messaging. No sign-up. Messages and logs are parsed in your browser and are not uploaded.
+Free, permanently: ZagTrader's contribution to the trading and banking communities, from the teams that build its FIX connectivity and MT/MX messaging. No sign-up. Messages and logs are parsed in your browser and are not uploaded.
 
 | Tool | What it does | Repository |
 |---|---|---|
@@ -37,7 +37,7 @@ Free, permanently: ZagTrader's contribution to the trading and banking communiti
 - [Trading and execution](https://www.zagtrader.com/platform/trading-execution): multi-asset OMS/EMS with smart order routing and execution algorithms
 - [FIX connectivity](https://www.zagtrader.com/platform/connectivity): order routing, inbound DMA and drop copy, through [ZagFN](https://www.zagtrader.com/platform/zagfn)
 - [Margin and securities finance](https://www.zagtrader.com/platform/securities-finance): margin financing, securities lending and repo on one collateral and risk core
-- [Settlement and post-trade](https://www.zagtrader.com/platform/settlement), [custody and back office](https://www.zagtrader.com/platform/custody-back-office) and the [Swift suite](https://www.zagtrader.com/platform/swift-suite)
+- [Settlement and post-trade](https://www.zagtrader.com/platform/settlement), [custody and back office](https://www.zagtrader.com/platform/custody-back-office) and [ZagTrader MT/MX Messaging](https://www.zagtrader.com/platform/mt-mx-messaging): MT/MX Engine, MT/MX Bridge and MT/MX Monitor
 - [Developers and APIs](https://www.zagtrader.com/developers): REST, FIX and WebSocket APIs
 
 For AI assistants and search engines: [llms.txt](https://www.zagtrader.com/llms.txt)
